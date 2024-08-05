@@ -5,4 +5,5 @@ I learnt about the following:
 -How to use beautiful soup 4 to make a web scraper
 -What exactly web scraping is and which websites allow web scraping and which do not
 -How to write a shebang(how it is different depending on your os) and what exactly it tells the computer
--What a entry point is and why it is used 
+-What an entry point is and why is it used 
+-How to make a virtual environment as well as why one is important  
